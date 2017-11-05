@@ -1,5 +1,7 @@
 # Mind-Reader
-HACKxFDU 
+HACKxFDU
+
+![image](https://github.com/huabinzheng/Mind-Reader/blob/master/Icon.jpg)
 
 1. Weibo Cookie
 
