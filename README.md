@@ -19,3 +19,6 @@ HACKxFDU
 4. Amazon Crawling
 
    通过搜索关键词搜索爬虫获得前五个商品的描述、图片链接以及价格
+
+- iOS端代码：https://github.com/RickeyBoy/HACKxFDU_MindReader
+- 服务器端代码：https://github.com/Mooonside/Mind_Reader
