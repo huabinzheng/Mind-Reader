@@ -1,5 +1,6 @@
 # Mind-Reader
 HACKxFDU
+项目 https://www.hackx.org/projects/201
 
 ![image](https://github.com/huabinzheng/Mind-Reader/blob/master/Icon.jpg)
 
